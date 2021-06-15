@@ -1,0 +1,30 @@
+body{
+  height: 100%;
+  width: 100%;
+  margin:0px;
+}
+.slider {
+  background: url(../img/Untitled-1.jpg) fixed no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.ripple  {
+  background-size: cover;
+  background-position: center;
+      background-image: linear-gradient(to right, #2b1630 0%,#000000 99%);
+}
+.slider:before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    opacity: 0.9;
+    background-size: cover;
+    background: #01052b;
+  /*background: url(../img/bannner.png) no-repeat;*/
+      background-position: right bottom !important;
+    background-size: 520px !important;
+    width: 100% !important;
+}

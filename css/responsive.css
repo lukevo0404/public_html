@@ -1,0 +1,292 @@
+ .footer h5{
+ 	text-transform: uppercase;
+ }
+ .slider {
+  
+    overflow: hidden;
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+	a.navbar-brand.logo img {
+	    height: 55px;
+	}
+	.navbar-toggle {
+	    margin-top: 23px;
+	    border: 0px;
+	}
+	.scroll_stick .navbar-toggle {
+	    margin-top: 15px;
+	    border: 0px;
+	}
+	.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+    width: 22px;
+    height: 2px;
+    border-radius: 10px;
+    margin-bottom: 6px;
+	}
+	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	    background-color: transparent;
+	}
+	.nav>li>a {
+	    position: relative;
+	    display: block;
+	    padding: 15px 12px;
+	}
+	.slider_inner h2 {
+	    font-size: 31px;
+	    line-height: 41px;
+	}
+	.about_contact h2 {
+	    font-size: 40px;
+	}
+	.navbar-default .navbar-nav li a {
+	    padding: 14px 7px;
+    border-bottom: 1px solid #0a3e67;
+	}
+	.slider:before{
+		opacity: 0.5 !important;
+	}
+	.slider_inner h4 {
+	    font-size: 15px;
+	    line-height: 23px;
+	}
+	.document-img-s2{
+		margin-bottom: 25px;
+	}
+	.section-hero {
+	    padding-top: 0;
+	    padding-bottom: 0;
+	}
+}
+@media (max-width: 776px) {
+	.roadmap_inner {
+		overflow: hidden;
+	}
+	.container {
+	    width: 100%;
+	}
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	    border-color: transparent;
+	}
+	.scroll_stick .navbar-nav, .navbar-nav {
+	    padding: 0px 10px;
+	}
+	.nav li a {
+	    padding: 12px 12px;
+	}
+	.slider_inner h2 {
+	    margin-top: 0px;
+	    font-size: 27px;
+	    line-height: 35px;
+	}
+	.slider_image img {
+    	height: 300px;
+	}
+	.slider_contact{
+		padding: 0px 25px;
+	    text-align: center;
+	    margin-bottom: 30px;
+	}
+	.slider_image img {
+	    float: none;
+	    margin: auto;
+	}
+	.about_contact h2 {
+    	font-size: 30px;
+	}
+	.about_contact {
+		text-align: center;
+		margin-bottom: 25px;
+	}
+	/*.about_single .about_image_main {
+		display: none;
+	}*/
+	.about_contact p {
+	    font-size: 14px;
+	    line-height: 25px;
+	}
+	.work_content {
+		margin-bottom: 30px;
+	}
+	.padding_section {
+	    padding: 30px 0px;
+	}
+	.partners .col-sm-3{
+		width: 50%;
+		float: left;	
+	}
+	.navbar-footer li {
+	    display: block;
+	    margin-bottom: 0px;
+	    padding: 7px 0px;
+	    background: transparent;
+	    border: 0px;
+	}
+	.footer-icons {
+	    padding: 10px 0px 0px;
+	}
+	.bottom_menu {
+	    margin-top: 10px;
+	}
+	.faq_section .panel-group {
+	    width: 100%;
+	    margin: auto;
+	    margin-top: 30px;
+	}
+	.slider {
+	    padding: 106px 0px !important;
+	    padding-bottom: 60px !important;
+	}
+	.fee_inner .single_work {
+    	padding: 0px 0px;
+    	padding-top: 15px;
+	}
+	.about_contact h2 b:before {
+	    height: 3px;
+	}
+	.main_title h2, .about_contact h2, .footer h5 {
+	    line-height: 40px;
+	    font-size: 28px !important;
+	    margin-top: 0px;
+	}
+	.single_work h4 {
+	    font-size: 18px;
+	    line-height: 27px;
+	}
+	.how_work .col-sm-6:last-child .single_work {
+		margin-bottom: 0px;
+	}
+	.partners .single_work {
+	    position: relative;
+	    margin: 0px;
+	    margin-top: 15px;
+	}
+	.contact_form ul li{
+		width: 100%;
+	    margin: 0px 0px;
+	    margin-top: 10px;
+	}
+	.how_work .single_work {
+   		background: rgb(255 255 255 / 22%);
+	}
+	.our_secore .about_inner .about_image_main {
+	    position: relative;
+	    top: 0px;
+	    height: auto;
+	    bottom: 0px;
+	    margin: auto;
+	    display: block;
+	}
+	.our_secore .about_image_main img {
+	    margin: auto;
+	}
+	.our_secore {
+	    width: 94%;
+	    margin: auto;
+	    left: 0px;
+	    right: 0px;
+	    margin-bottom: 30px !important;
+	    padding: 35px 15px;
+	    position: relative;
+	    top: 0;
+	}
+	html body .slider:before {
+	    background-size: 312px !important;
+	}
+	.how_work .about_contact {
+	    padding: 0px;
+	}
+	.footer {
+	    padding-top: 30px;
+	}
+	.footer>div {
+	    padding: 0px 0px;
+	}
+	.image_set:before {
+		display: none;
+	}
+	
+
+	.app-screen---hero-1 {
+	    border-radius: 0px;
+	}
+	.slider_inner {
+	    text-align: center;
+	}
+	.section-hero{
+		width: 80%;
+	    margin: auto;
+	    margin-top: 20px;
+	}
+	.fee_section .col-sm-3{
+		width: 50%;
+		float: left;
+	}
+	.about_image_main img{
+		margin: auto;
+	}
+	.test_slider .inner_test {
+	    position: relative;
+	    top: 0;
+	    width: 100%;
+	    left: 0px;
+	}
+	.navbar-collapse{
+		background: #022846; 
+	}
+	.view-buy a, .other_btn .btn_btn {
+	    padding: 10px 23px;
+	    font-size: 14px;
+	}
+	.panel {
+	    border-radius: 6px !important;
+   	}
+   .panel-default>.panel-heading {
+    	padding: 9px 19px;
+	}
+	.panel-title a {
+	    font-size: 13px;
+	}
+	.plus_minus {
+	    right: 13px;
+	    top: 14px;
+	}
+	.slider_social a {
+	    height: 30px;
+	    width: 30px;
+	    font-size: 14px;
+        line-height: 19px;
+    }
+    .about_single .fee_bg_content h4 {
+    	font-size: 17px;
+	}
+	.test_slider .fee_bg_content{
+		padding: 15px 20px;
+	}
+	.test_slider .fee_bg_content h4 {
+	    font-size: 15px;
+	    line-height: 26px;
+	}
+	.roadmap_section .main_cols {
+	    width: 100%;
+	    float: none;
+	}
+	.faq_box {
+	    padding: 0px 5px;
+	    margin-top: 20px;
+	}
+	.panel-default>.panel-heading+.panel-collapse>.panel-body {
+		font-size: 14px;
+	}
+}
+
+@media (max-width: 400px) {
+	.great_deals.partners .col-sm-3 {
+		width: 100%;
+	}
+	.section-hero{
+		width: 96%;
+	}
+}
